@@ -7,5 +7,7 @@ to help you understand the basics of neural networks, including
 feedforward networks, backpropagation, activation functions, 
 regularization, and optimization techniques. With these fundamental 
 concepts, you will be able to write efficient, scalable, and accurate 
-neural networks using Python. Start learning neural networks today by exploring the code examples in this repository!
+neural networks using Python. Start learning neural networks today by 
+exploring the code examples in this repository!
+
 
