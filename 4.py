@@ -1,7 +1,7 @@
 import tensorflow as td
 from tensorflow import keras
 import numpy as np
-
+import torch
 data = keras.datasets.imdb
 
 (train_data, train_labels), (test_data, test_labels) = data.load_data(num_words=88000)
